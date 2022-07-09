@@ -9,3 +9,4 @@ Monokai Pro theme for macOS Terminal
  - Select the `Monokai Pro.terminal` file 
  - Click _Default_
 
+![screenshot](screenshot.png)
